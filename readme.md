@@ -1,13 +1,13 @@
-# 🔐 VPN IPsec sous Windows Server 2025
+#  VPN IPsec sous Windows Server 2025
 
 ![VPN](screenshots/vpn.png)
 
-## 📌 Objectif
+## Objectif
 Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’accéder au réseau interne via IPsec.
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 
 - 1 serveur Windows Server 2025 (RRAS)
 - 1 client Windows
@@ -15,7 +15,7 @@ Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’ac
 
 ---
 
-## ⚙️ Technologies utilisées
+##  Technologies utilisées
 
 - Windows Server 2025
 - IPsec / IKEv2
@@ -25,7 +25,7 @@ Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’ac
 
 ---
 
-## 🚀 Étapes principales
+##  Étapes principales
 
 1. Installation de Active Directory
 2. Installation de Certificate Authority (CA)
@@ -37,7 +37,7 @@ Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’ac
 
 ---
 
-## 📸 Résultats
+##  Résultats
 
 - Tunnel VPN établi
 - Communication sécurisée
@@ -45,14 +45,14 @@ Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’ac
 
 ---
 
-## ⚠️ Problèmes rencontrés
+##  Problèmes rencontrés
 
 - Échec de connexion VPN
 - Problèmes réseau / filtrage
 
 ---
 
-## 🛡️ Sécurité
+##  Sécurité
 
 - Utilisation de AES-256
 - SHA-384
@@ -61,7 +61,7 @@ Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’ac
 
 ---
 
-## 📈 Améliorations possibles
+##  Améliorations possibles
 
 - Intégration avec Azure VPN
 - Automatisation avec PowerShell
@@ -71,6 +71,6 @@ Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’ac
 
 
 
-## 👨‍💻 Auteur
+##  Auteur
 
 Adoum Mahamat Abakar
