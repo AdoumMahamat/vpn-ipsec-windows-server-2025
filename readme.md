@@ -1,5 +1,7 @@
 # 🔐 VPN IPsec sous Windows Server 2025
 
+![VPN](screenshots/vpn.png)
+
 ## 📌 Objectif
 Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’accéder au réseau interne via IPsec.
 
@@ -66,6 +68,8 @@ Mettre en place un VPN sécurisé permettant à des utilisateurs distants d’ac
 - Monitoring avancé
 
 ---
+
+
 
 ## 👨‍💻 Auteur
 
